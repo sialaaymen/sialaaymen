@@ -1,4 +1,4 @@
-git init
+#git init
 git add main.sh
 git config user.name "sialaaymen"
 git commit -m "more serious"
